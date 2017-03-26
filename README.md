@@ -18,18 +18,23 @@ VARIABLE DESCRIPTIONS:
 <dd>Property_Area	       |   Urban/ Semi Urban/ Rural</dd>
 <dd>Loan_Status	         | Loan approved (Y/N)</dd>
 </dl>
-
+<br />
 
 --This datascience project has 3 parts
+<br />
 i)Exploratory analysis in Python using Pandas
+<br />
 ii)Data Munging: Using Pandas
+<br />
 iii)Building a Predictive Model
+<br />
+<br />
    --here regression analysis is used to build predictive model
      Accuracy : 80.945%----Cross-Validation Score : 80.946%
      
- Distribution analysis
+![alt tag](https://github.com/nikhilponnuru/datascience/blob/master/ds-3.png)
  
- <imag src="https://github.com/nikhilponnuru/datascience/blob/master/ds-3.png"/>
+ 
  
  
      
